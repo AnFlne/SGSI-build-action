@@ -12,10 +12,10 @@ Don't build directly in this warehouse, please fork this warehouse first, and th
 1. Fork this warehouse
 2. Edit Config.env:
      ROM_URL: https://bigota.d.miui.com/V12.5.3.0.RFXCNXM/miui_CRUX_V12.5.3.0.RFXCNXM_190e6aea41_11.0.zip
-     ZIP_NAME: MIUI
-     OS_TYPE: GIS
+     ZIP_NAME: miui_TUCANA_21.5.31_cb42ec9bed_11.0.zip
+     OS_TYPE: SGIS
      BUILD_TYPE: a
-     REPACK_NAME: 1
+     REPACK_NAME: 1.zip
 3. After modification, click Start commit -> Actions tab -> Star -> SGSI-Build
 ```
 
